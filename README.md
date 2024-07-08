@@ -23,7 +23,7 @@ The Weather App is a web-based application that provides users with current weat
 
 echnologies Used:
 
- '*'JavaScript: For fetching and displaying real-time weather data from a weather API.
+ JavaScript: For fetching and displaying real-time weather data from a weather API.
  “*”CSS: For styling the application and ensuring a responsive design.
  “*”HTML: For structuring the content of the web pages.
 
