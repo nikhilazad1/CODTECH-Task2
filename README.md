@@ -2,14 +2,14 @@
 
 Weather App:
 
-Name: Nikhil Azad-
-Company: CODETECH IT SOLUTIONS-
-ID: CT2WD2746-
-Domain: Web Development-
-Duration: 29 June - 12 July 2024-
-Mentor: Neela Santhosh Kumar-
-Project Overview-
-Project Title: Weather App-
+Name: Nikhil Azad <br> 
+Company: CODETECH IT SOLUTIONS <br> 
+ID: CT2WD2746 <br> 
+Domain: Web Development <br> 
+Duration: 29 June - 12 July 2024 <br> 
+Mentor: Neela Santhosh Kumar <br> 
+Project Overview  <br>
+Project Title: Weather App <br> 
 
 # Overview of the Project
 
@@ -23,7 +23,7 @@ The Weather App is a web-based application that provides users with current weat
 
 echnologies Used:
 
- "*"JavaScript: For fetching and displaying real-time weather data from a weather API.
+ *JavaScript: For fetching and displaying real-time weather data from a weather API.
  “*”CSS: For styling the application and ensuring a responsive design.
  “*”HTML: For structuring the content of the web pages.
 
