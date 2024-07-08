@@ -13,7 +13,7 @@ Project Title: Weather App <br>
 
 # Overview of the Project
 
-Objective:
+# Objective:
 
 The objective of this project is to develop a responsive and user-friendly weather application that allows users to search for the current weather conditions of any city. The application provides real-time weather updates, including temperature, weather conditions, and high/low temperature range for the day.
 
