@@ -12,6 +12,8 @@ Project Overview  <br>
 Project Title: Weather App <br> 
 
 # Overview of the Project
+![Output Screenshot](https://github.com/nikhilazad1/CODTECH-Task2/assets/158045459/8cd92d4b-0c8e-4051-85e6-36bbd5dd5fe4)
+
 
 Objective:
 
