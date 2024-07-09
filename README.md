@@ -1,6 +1,6 @@
 # CODTECH-Task2
 
-Weather App:
+## Weather App:
 
 Name: Nikhil Azad <br> 
 Company: CODETECH IT SOLUTIONS <br> 
