@@ -36,11 +36,6 @@ The Weather App is a web-based application that provides users with current weat
 - **Real-time Updates**: Fetches and updates weather data in real-time using a weather API.
 - **Responsive Design**: The application is designed to be responsive and works well on different screen sizes.
 
-### Technologies Used:
-
-- **JavaScript**: For fetching and displaying real-time weather data from a weather API.
-- **CSS**: For styling the application and ensuring a responsive design.
-- **HTML**: For structuring the content of the web pages.
 
 ### Formalities:
 
